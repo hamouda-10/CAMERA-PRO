@@ -1,0 +1,6 @@
+{
+  "name": "APERTURE ROW",
+  "description": "Berlin vintage camera shop and optical workshop — interactive top-down rotating lens-ring showcase, serviced film cameras, vintage lenses, booking bench, and full USD checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
